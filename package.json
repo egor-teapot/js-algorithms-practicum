@@ -1,0 +1,9 @@
+{
+  "name": "js-algorithms-practicum",
+  "version": "1.0.0",
+  "description": "vshp algorithms practicum",
+  "main": "index.js",
+  "author": "your name <obivan-kenobo@yandex.ru>",
+  "license": "MIT",
+  "private": false
+}
