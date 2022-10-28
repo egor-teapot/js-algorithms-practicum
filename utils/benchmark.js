@@ -1,4 +1,5 @@
 // https://github.com/phoenixweiss/fibonacci/blob/main/modules/benchmark.js
+
 const process = require('process')
 
 const benchmark = (fn) => {
@@ -16,3 +17,5 @@ const benchmark = (fn) => {
   
     return b
 }
+
+module.exports = benchmark
